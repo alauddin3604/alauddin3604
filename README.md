@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Junior developer here 👋</h1>
 
 <!--
 **alauddin3604/alauddin3604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+<h2>
+Full Name: <strong>Muhammad Alauddin Shah Bin Mohd Rofi</strong>
+</h2>
