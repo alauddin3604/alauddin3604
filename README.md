@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <br>
 <h2>
 Full Name: <strong>Muhammad Alauddin Shah Bin Mohd Rofi</strong>
