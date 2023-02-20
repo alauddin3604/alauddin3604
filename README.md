@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<h2>
-Full Name: <strong>Muhammad Alauddin Shah Bin Mohd Rofi</strong>
-</h2>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="muhammad-alauddin-shah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/muhammad-alauddin-shah?trk=profile-badge">LinkedIn</a></div>
               
